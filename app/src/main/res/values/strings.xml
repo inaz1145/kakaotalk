@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Login</string>
+    <string name="id_empty">아이디를 쳐주세요</string>
+    <string name="pw_empty">비밀번호를 쳐주세요</string>
+    <string name="pw_length">비밀번호가 8자리 미만입니다</string>
+    <string name="login_fail">로그인실패</string>
+    <string name="login_success">로그인성공</string>
 </resources>
